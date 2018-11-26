@@ -15,8 +15,8 @@ libbluray, ^
 libcdio, ^
 libcdio-paranoia, ^
 libiconv, ^
-libgcrypt, ^
 libilbc, ^
+libgcrypt, ^
 liblzma, ^
 libssh, ^
 libxml2, ^

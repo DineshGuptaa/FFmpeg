@@ -83,6 +83,7 @@
     <ClCompile Include="..\libavutil\aes_ctr.c" />
     <ClCompile Include="..\libavutil\audio_fifo.c" />
     <ClCompile Include="..\libavutil\avstring.c" />
+    <ClCompile Include="..\libavutil\avsscanf.c" />
     <ClCompile Include="..\libavutil\base64.c" />
     <ClCompile Include="..\libavutil\blowfish.c" />
     <ClCompile Include="..\libavutil\bprint.c" />
@@ -141,6 +142,7 @@
     <ClCompile Include="..\libavutil\xtea.c" />
     <ClCompile Include="..\libavutil\tea.c" />
     <ClCompile Include="..\libavutil\hwcontext_cuda.c" />
+    <ClCompile Include="..\libavutil\cuda_check.c" />
     <ClCompile Include="..\libavutil\hwcontext_dxva2.c" />
     <ClCompile Include="..\libavutil\lzo.c" />
     <ClCompile Include="..\libavutil\hwcontext_qsv.c" />

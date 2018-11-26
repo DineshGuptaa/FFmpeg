@@ -207,6 +207,7 @@
     <ClCompile Include="..\libavformat\daudenc.c" />
     <ClCompile Include="..\libavformat\dcstr.c" />
     <ClCompile Include="..\libavformat\dfa.c" />
+    <ClCompile Include="..\libavformat\dhav.c" />
     <ClCompile Include="..\libavformat\diracdec.c" />
     <ClCompile Include="..\libavformat\dnxhddec.c" />
     <ClCompile Include="..\libavformat\dsfdec.c" />
